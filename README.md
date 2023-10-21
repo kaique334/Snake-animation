@@ -44,7 +44,6 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=artur-debv&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-alt="readme stats" />
   <br/>
 </div>
 
