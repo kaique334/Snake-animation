@@ -43,7 +43,7 @@
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=artur-debv&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=artur-debv&hide_border=falso&locale=pt_BR)](https://git.io/streak-stats)
   <br/>
 </div>
 
